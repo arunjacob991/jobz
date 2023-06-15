@@ -1,0 +1,26 @@
+CSS
+
+* 1 - Box model
+* 2 - Center alignments
+* 3 - ::before & ::after
+* 4 - combinators
+* 5 - attribute selectors
+* 6 - specificity
+* 7 - flex & grid - properties & approaches
+* 8 - grid - auto-fill and auto-fit
+* 9 - clamp, calc
+* 10 - nth child and selectors
+* 11 - nth-of-type and selectors
+* 12 - :root, *, html and body specificity
+* 13 - css units - relative & absolute
+* 14 - position properties
+* 15 - :not, :has, :is, :where
+
+
+SASS
+
+* 1 - @use & @forward
+* 2 - @mixin
+* 3 - @include, @extend
+* 4 - name-spacing and partials
+* 5 - 7-1 architecture

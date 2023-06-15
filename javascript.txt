@@ -1,0 +1,33 @@
+* 1 - var, let, const
+* 2 - hoisting 
+^ 3 - function approaches - arrow function
+^ 4 - new, this keyword
+^ 5 - call, apply
+^ 6 - function binding
+^ 7 - IIFE, anonymous functions
+^ 8 - generators
+^ 9 - currying
+~ 10 - bubbling and capturing
+^ 11 - &&, ||, ??
+^ 12 - comparision table problems
+^ 13 - destructuring - objects, rest & spread
+^ 14 - destructuring - arrays
+^ 15 - for-in and for-off
+~ 16 - getters and setters
+17 - closure
+18 - Symbol
+~ 19 - Map and Set
+~ 20 - WeakMap and WeakSet
+~ 21 - garbage collection
+22 - array methods - some
+23 - string methods - some
+24 - object methods -some
+25 - setTimeout and setInterval
+26 - debounce and throttling
+27 - callback and callback hell
+28 - promise and promise methods
+29 - async and await
+30 - async and defer
+31 - regex
+32 - cache, local storage, session storage, cookies
+33 - tricky question on topics

@@ -1,0 +1,20 @@
+
+1 - library and framework
+2 - UI libraries and approaches
+3 - React project approaches - architecture
+4 - performance optimizing approaches
+5 - React project compiling mechanism
+6 - javascript compiling mechanism - event loop
+7 - V8 mechanism and other engines
+8 - GIT advanced
+9 - test case for some components - jest
+10 - storybook for some components
+11 - typescript basics
+12 - redux basics
+13 - react query application process
+14 - context api appication process
+15 - vue-js basics
+16 - next-js basics
+17 - HTML advanced
+18 - CSS artchitectures - BEM, atomic, etc...
+19 - understanding of blockchain and technicalities

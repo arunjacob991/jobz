@@ -1,0 +1,26 @@
+1 - lifecycle components process
+2 - HOC
+3 - portals
+4 - profiling and optimization
+5 - controlled and uncontrolled components
+6 - passing data from child to parent
+7 - lazy loading
+8 - suspense
+9 - helmet
+10 - router and navigation
+
+HOOKS
+
+1 - useState and implementation
+2 - useEffect and implementation
+3 - react Memo, useMemo and useCallback
+4 - useId
+5 - context API and useContext
+6 - useReducer
+7 - forwardRef and useRef
+
+Practical implementation
+
+1 - Update form with API
+2 - User Authentication session
+3 - general scenario with routing
